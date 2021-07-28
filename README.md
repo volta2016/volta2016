@@ -2,8 +2,6 @@
 
 I'm Giovanni. I'm Frontend Developer Specialized in technologies such as Reactjs
 
-[![Website](https://img.shields.io/website?label=voltauxui.cl&style=for-the-badge&url=https%3A%2F%2Fvoltauxui.cl)][website]
-
 - 🌱 I am working on DevChallenges and FrontendMentor web development challenges with React js library.
 - 🔭 I'm also dabbling in backend development with node js, which is server-side javascript.
 - 📚 I am constantly learning new technologies and everything related to javascript updates.
@@ -33,13 +31,13 @@ I'm Giovanni. I'm Frontend Developer Specialized in technologies such as Reactjs
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
+<img align="left" alt="Figma" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 
 <br />
 
 ---
 
-<img src=https://github-readme-stats.vercel.app/api?username=volta2016&show_icons=true alt="github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=volta2016&show_icons=true&theme=jolly" alt="github stats" />
 
 [website]: https://voltauxui.cl
 [twitter]: https://twitter.com/giovanniivolta
